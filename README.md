@@ -19,6 +19,30 @@ In this exercise, you will:
 3. Open a pull request
 4. Merge your pull request
 
+### Basic GitHub Markdown syntax
+
+GitHub uses Markdown to format text in README files, issues, pull requests, and discussions:
+
+| Syntax | Result |
+| --- | --- |
+| `# Heading` | A top-level heading |
+| `**bold**` | **bold** text |
+| `*italic*` | *italic* text |
+| `` `[code]` `` | Inline `code` |
+| `[GitHub](https://github.com)` | [A link](https://github.com) |
+| `- item` | A bulleted list |
+| `1. item` | A numbered list |
+| `- [ ] task` | An unchecked task |
+| `- [x] task` | A checked task |
+
+Use triple backticks to create a fenced code block:
+
+````markdown
+```text
+Hello, GitHub!
+```
+````
+
 ### How to start this exercise
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
